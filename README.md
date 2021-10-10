@@ -19,7 +19,7 @@
   - Front-end
     HTML5 / CSS3 / JavaScript / aJax 
 
-# DATA (각 셀 기준 - 약 380,000 data 사용)
+# DATA 
   - 서울시 : 공공데이터 포털 -> 서울시 동물병원 인허가 정보 DB 정제 후 사용.
   - 가격정보 및 질병정보
     petPrice(app) (고양이 - 4개 대표 질병 및 가격정보) 데이터 사용.
@@ -38,6 +38,10 @@
       Java
       SQL
       JavaScript
-      
+  - Development Tools
+      eclipseJEE
+      DBeaver
+      SQL Developer
+      VSCode
     
   
